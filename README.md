@@ -56,6 +56,10 @@ imount
 
 - This fork improves on the original script by essentially rewriting the whole thing and adding new features as well as just making general impromements in user experience.
 
+## Credit
+
+Script is essentially built upon libimobiledevice, specifically around [ifuse](https://libimobiledevice.org/).
+
 ## License
 
 This project is open source. See the LICENSE file for details
