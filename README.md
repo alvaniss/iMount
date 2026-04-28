@@ -20,7 +20,7 @@ Script that allows to mount iOS devices on Linux to manage their files, built ar
 
 ## Defaults
 
-When first ran, script won't have a default app chosen, but you can add one by pressing [d] while the app list is open. Doing so will add `default-app` file to `~/.config/imount/`
+When first ran, script won't have a default app chosen, but you can add one by pressing [d] while the app list is open. Doing so will add `default-app` file to `~/.config/imount/`.
 
 ## Dependencies
 
