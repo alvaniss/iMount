@@ -8,7 +8,7 @@
   
 Script that allows to mount iOS devices on Linux to manage their files, built around ifuse.
 
-![Status dots displayed in Waybar showing microphone, camera, location and screen sharing indicators in green, orange, blue and purple](./assets/privacy-dots.png)
+![Script displayed in a terminal app showing a list of apps](./assets/imount.png)
 
 ## Features
 
