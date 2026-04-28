@@ -54,7 +54,7 @@ imount
 
 ## Notes
 
-- This fork improves on the original script by essentially rewriting the whole thing and adding new features as well as just general impromements.
+- This fork improves on the original script by essentially rewriting the whole thing and adding new features as well as just making general impromements in user experience.
 
 ## License
 
