@@ -25,8 +25,9 @@ When first ran, script won't have a default app chosen, but you can add one by p
 ## Dependencies
 
 1. `bash`
-2. `ifuse`
-3. `xdg-utils`
+2. `libimobiledevice`
+3. `ifuse`
+4. `xdg-utils`
 
 ## Installation
 
